@@ -1,6 +1,6 @@
 <div align="center">
 
-# AI US ✨
+# AI us ✨
 
 **Create with AI. Together.Change the world.**
 
