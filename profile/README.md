@@ -51,7 +51,7 @@ No coding background needed. Just curiosity and the courage to try.
 
 ## 🔗 Join Us / 加入我们
 
-[![Discord](https://discord.gg/YOUR_INVITE_LINK)https://discord.gg/jJysQSTQ9w]
+[![Discord](https://discord.gg/jJysQSTQ9w]
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aius-community)
 
 ---
